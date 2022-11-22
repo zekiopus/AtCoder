@@ -1,5 +1,4 @@
 # AtCoder
----
 
 This is a repository for learning algorithms on AtCoder
 
